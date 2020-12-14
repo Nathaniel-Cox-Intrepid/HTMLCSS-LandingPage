@@ -40,5 +40,8 @@
   "devDependencies": {
     "backstopjs": "^3.8.2",
     "lite-server": "^2.4.0"
+  },
+  "prettier": {
+    "singleQuote": true
   }
 }
