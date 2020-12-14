@@ -42,6 +42,6 @@
     "lite-server": "^2.4.0"
   },
   "prettier": {
-    "singleQuote": true
+    "singleQuote": false
   }
 }
